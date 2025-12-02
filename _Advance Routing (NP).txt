@@ -84,7 +84,7 @@ show ip router eigrp
 EIGRP Admin Distance:
 EIGRP Metric Cost:
 
-
+ 
 
 OPTIONAL
 
